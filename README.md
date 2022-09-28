@@ -10,4 +10,4 @@ Palette de couleurs: [Coolors.co](https://coolors.co/palette/ffbe0b-fb5607-ff006
 
 ## Diagramme
 
-<img src="Assets/guay_justin_synopsis.png" style="width:800px;"></img>
+<img src="Assets/guay_justin_Synopsis.png" style="width:800px;"></img>
