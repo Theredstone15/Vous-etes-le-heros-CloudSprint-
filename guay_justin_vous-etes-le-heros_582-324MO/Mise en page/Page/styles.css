@@ -1,0 +1,87 @@
+@font-face {
+    font-family: Eternal;
+    src: url("../Assets/Polices/Eternal-8Md1g.otf") format("opentype");
+}
+
+@font-face {
+    font-family: SkyGraze;
+    src: url("../Assets/Polices/Skygraze.otf") format("opentype");
+}
+
+html{
+    background-color: #DAE8FC;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Game{
+    margin: auto;
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    background-color: #4421A6;
+    width: 900px;
+    min-height: 100px;
+    border: 5px solid #0A2342;
+    border-radius: 5%;
+}
+
+.resume{
+    color: #C9C9C9;
+    font-family: SkyGraze;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+
+.Boutons{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: space-evenly;
+}
+
+.Contenu{
+    color: #C9C9C9;
+    font-family: SkyGraze;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Titre{
+    font-family: Eternal;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bouton{
+    background-color: #24E9FF;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.Image{
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: space-around;
+}
+
+.bouton:hover {
+    background-color: #1FC6D9;
+  }
