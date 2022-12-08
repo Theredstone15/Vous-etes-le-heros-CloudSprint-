@@ -2,7 +2,7 @@ let chaptersObj = {
     Matin: {
         subtitle: "Matin",
         text: "Vous êtes livreur pour la compagnie CloudSprint, une compagnie de livraison un peu louche qui ne vous a jamais inspiré confiance. Il est présentement 6:30 AM et vous devriez partir travailler, mais vous pouvez probablement dormir juste un peu plus. Que faites-vous?",
-        img:"../Assets/Images/CyberpunkRoom.jpg",
+        img:"Assets/Images/CyberpunkRoom.jpg",
         options: [
         {
             text: "Partir travailler",
@@ -16,7 +16,7 @@ let chaptersObj = {
     Boite: {
         subtitle: "La boîte",
         text: "Arrivé à l’entrepôt, un de vos collègues vous donne le premier colis du jour et vous partez. 5 minutes plus tard, vous semblez entendre un son régulier tel que le son d’une horloge venant du colis. Que faites-vous avec la boîte?",
-        img:"../Assets/Images/Cargo.jpg",
+        img:"Assets/Images/Cargo.jpg",
         options: [
             {
                 text: "Jeter le colis",
@@ -30,7 +30,7 @@ let chaptersObj = {
     Devant_club: {
         subtitle: "Devant le club",
         text: "Vous arrivez à destination, qui semble être à l’intérieur d’un club privé. Il semble avoir une personne louche qui attend dans une allée juste à côté du club. Vous pouvez aller le voir, ou aller directement au club. Que faites vous?",
-        img:"../Assets/Images/Nightclub.jpg",
+        img:"Assets/Images/Nightclub.jpg",
         options: [
             {
                 text: "Aller voir l'entree",
@@ -44,7 +44,7 @@ let chaptersObj = {
     Garde: {
         subtitle: "Le garde",
         text: "Un garde se trouve devant la porte. Vous lui dites que vous avez un colis à livrer à cette adresse, mais on ne vous laisse pas entrer parce que vous n’avez pas de billet. Vous vous éloignez du bâtiment et vous regardez aux alentours. Vous pouvez tenter de menacer le garde ou vous pouvez aller voir la personne louche sur le côté du bâtiment.",
-        img:"../Assets/Images/Garde.jpg",
+        img:"Assets/Images/Garde.jpg",
         options: [
             {
                 text: "Menacer le garde",
